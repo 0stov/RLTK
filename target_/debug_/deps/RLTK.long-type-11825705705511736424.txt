@@ -1,0 +1,1 @@
+(&mut Storage<'_, Player, FetchMut<'_, MaskedStorage<Player>>>, &mut Storage<'_, Position, FetchMut<'_, MaskedStorage<Position>>>)

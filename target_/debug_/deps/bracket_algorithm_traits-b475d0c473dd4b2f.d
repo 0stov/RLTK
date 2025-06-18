@@ -1,0 +1,10 @@
+G:\RUST\RLTK\target\debug\deps\libbracket_algorithm_traits-b475d0c473dd4b2f.rmeta: C:\Users\Kyle\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bracket-algorithm-traits-0.8.7\src\lib.rs C:\Users\Kyle\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bracket-algorithm-traits-0.8.7\src\algorithm2d.rs C:\Users\Kyle\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bracket-algorithm-traits-0.8.7\src\algorithm3d.rs C:\Users\Kyle\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bracket-algorithm-traits-0.8.7\src\basemap.rs
+
+G:\RUST\RLTK\target\debug\deps\libbracket_algorithm_traits-b475d0c473dd4b2f.rlib: C:\Users\Kyle\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bracket-algorithm-traits-0.8.7\src\lib.rs C:\Users\Kyle\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bracket-algorithm-traits-0.8.7\src\algorithm2d.rs C:\Users\Kyle\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bracket-algorithm-traits-0.8.7\src\algorithm3d.rs C:\Users\Kyle\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bracket-algorithm-traits-0.8.7\src\basemap.rs
+
+G:\RUST\RLTK\target\debug\deps\bracket_algorithm_traits-b475d0c473dd4b2f.d: C:\Users\Kyle\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bracket-algorithm-traits-0.8.7\src\lib.rs C:\Users\Kyle\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bracket-algorithm-traits-0.8.7\src\algorithm2d.rs C:\Users\Kyle\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bracket-algorithm-traits-0.8.7\src\algorithm3d.rs C:\Users\Kyle\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bracket-algorithm-traits-0.8.7\src\basemap.rs
+
+C:\Users\Kyle\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bracket-algorithm-traits-0.8.7\src\lib.rs:
+C:\Users\Kyle\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bracket-algorithm-traits-0.8.7\src\algorithm2d.rs:
+C:\Users\Kyle\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bracket-algorithm-traits-0.8.7\src\algorithm3d.rs:
+C:\Users\Kyle\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bracket-algorithm-traits-0.8.7\src\basemap.rs:
